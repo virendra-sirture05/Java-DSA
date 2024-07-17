@@ -1,5 +1,4 @@
 package TwoDimensionalArray;
-
 public class FlippingMatrixScore {
     
     static void print(int[][] arr ){

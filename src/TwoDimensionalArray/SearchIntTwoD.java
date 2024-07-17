@@ -1,5 +1,4 @@
 package TwoDimensionalArray;
-
 public class SearchIntTwoD {
     public static void main(String[] args) {
         int[][] arr = {

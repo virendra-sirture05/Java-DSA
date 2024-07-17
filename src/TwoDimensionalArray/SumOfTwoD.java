@@ -1,5 +1,4 @@
 package TwoDimensionalArray;
-
 public class SumOfTwoD {
     public static void main(String[] args) {
         int[][] arr = {

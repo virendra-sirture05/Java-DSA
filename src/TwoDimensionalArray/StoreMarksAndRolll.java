@@ -1,5 +1,4 @@
 package TwoDimensionalArray;
-
 import java.util.Scanner;
 
 public class StoreMarksAndRolll {

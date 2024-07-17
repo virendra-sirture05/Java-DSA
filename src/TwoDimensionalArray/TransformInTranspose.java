@@ -1,5 +1,4 @@
 package TwoDimensionalArray;
-
 public class TransformInTranspose {
     public static void main(String[] args) {
         int[][] arr = {

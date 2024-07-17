@@ -1,5 +1,4 @@
 package TwoDimensionalArray;
-import java.util.*;
 public class MatrixMultiplication {
     public static void main(String[] args) {
         int[][] a = {
