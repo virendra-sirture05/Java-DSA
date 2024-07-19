@@ -13,7 +13,7 @@ public class SmallestDivisorThreshold {
                 mx = arr[i];
             }
         }
-
+        
         int d = -1;
         int start = 1;
         int end = mx;
