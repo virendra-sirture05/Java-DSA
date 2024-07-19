@@ -15,5 +15,6 @@ public class KthMissingNumber {
         }
 
         System.out.println(arr[end]+k-(arr[end]-(end+1)));
+        System.out.println(k+start);
     }
 }
