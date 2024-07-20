@@ -1,5 +1,5 @@
 package Recursion;
-
+// Time complexity -> O(logb)
 public class PowerLog {
     static int pow(int a, int b){
         if(b == 0){

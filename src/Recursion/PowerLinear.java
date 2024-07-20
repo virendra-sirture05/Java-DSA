@@ -1,5 +1,5 @@
 package Recursion;
-
+// time commlextity -> O(b)
 public class PowerLinear {
     static int pow(int a, int b){
         if(b == 0){
